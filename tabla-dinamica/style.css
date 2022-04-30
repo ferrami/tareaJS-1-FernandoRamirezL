@@ -1,0 +1,11 @@
+.container {
+    border: 1px solid #000;
+    margin: 10px;
+    padding: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container-lg,
+.boton_nuevo {
+    padding: 20px;
+}
